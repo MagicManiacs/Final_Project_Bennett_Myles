@@ -13,6 +13,15 @@
 /*.pidb
 /*.booproj
 
+# Models, images, and audio files
+/*.FBX
+/*.jpg
+/*.gif
+/*.png
+/*.wav
+/*.mp3
+/*.ogg
+
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
 
