@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(CharacterController))]
-public class CharacterScript : MonoBehaviour {
+public class Player1Script : MonoBehaviour {
 
     public float speed = 6.0f;
     public float jumpSpeed = 8.0f;
