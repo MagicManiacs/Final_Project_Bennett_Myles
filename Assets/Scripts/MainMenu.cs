@@ -11,6 +11,16 @@ public class MainMenu : MonoBehaviour {
         Application.LoadLevel(levelOne);
     }
 
+    public void SinglePlayer()
+    {
+        Application.LoadLevel(levelOne);
+    }
+
+    public void Coop()
+    {
+        Application.LoadLevel(levelOne);
+    }
+
     public void HighScores()
     {
         Application.LoadLevel(highScores);
