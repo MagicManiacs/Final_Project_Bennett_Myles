@@ -3,7 +3,12 @@ guid: b425064cc5683e747a9207a10c03c209
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: angelic_sword_03
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -27,7 +32,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .100000001
+    globalScale: .00300000003
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
